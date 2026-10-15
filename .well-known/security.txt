@@ -1,0 +1,6 @@
+Contact: https://knightlogics.com/contact
+Contact: tel:+1-813-773-5553
+Expires: 2027-09-29T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://xarrest.com/.well-known/security.txt
+Policy: https://knightlogics.com/contact

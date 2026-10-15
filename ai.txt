@@ -1,0 +1,10 @@
+# ai.txt for XArrest
+Site: https://xarrest.com
+User-agent: *
+Allow: /
+Disallow: /api/
+Contact: https://knightlogics.com/contact
+Policy: https://knightlogics.com is the parent company.
+Summary: XArrest performs defensive public-URL checks. It reports signals. It does not label a business a scam and it does not provide attack instructions.
+Training: Public marketing pages may be read. Do not treat sample-desk output as a live booking.
+Prices: Listed pilot prices are invitations to talk, not a checkout.

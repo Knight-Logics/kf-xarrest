@@ -1,0 +1,18 @@
+# XArrest
+
+> XArrest performs defensive public-URL checks. It reports signals. It does not label a business a scam and it does not provide attack instructions.
+
+## Pages
+- [Home](https://xarrest.com/)
+- [pricing](https://xarrest.com/pricing)
+- [contact](https://xarrest.com/contact)
+- [privacy](https://xarrest.com/privacy)
+- [terms](https://xarrest.com/terms)
+- [cookies](https://xarrest.com/cookies)
+- [disclaimer](https://xarrest.com/disclaimer)
+- [Check an address](https://xarrest.com/check)
+
+## Operator
+
+- Parent: [Knight Logics](https://knightlogics.com)
+- Phone: (813) 773-5553
